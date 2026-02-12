@@ -32,4 +32,12 @@ Install dependencies:
 pip install pandas requests
 
 Run:
+python data_extraction.py 
+
+## Output
+
+The processed dataset (processed_health_data.csv) is automatically generated when running:
+
 python data_extraction.py
+
+The file will be created in the project directory after execution.
