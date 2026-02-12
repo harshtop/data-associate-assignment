@@ -1,0 +1,14 @@
+Slide 1 – Problem Statement
+Contextualizing maternal health outcomes using public development indicators.
+
+Slide 2 – Data Sources
+World Bank API and Our World in Data.
+
+Slide 3 – Workflow
+API extraction → Cleaning → SQL → Power BI dashboard.
+
+Slide 4 – Insights
+Investment and access strongly influence maternal outcomes.
+
+Slide 5 – Limitations
+Reporting lag, missing data, correlation ≠ causation.
